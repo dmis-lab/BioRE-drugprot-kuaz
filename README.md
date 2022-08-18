@@ -97,4 +97,23 @@ Automatic predictions of Drug-Protein relations database: Please check [here](ht
 
 <hr>
 
+## Citation info
+
+Our main paper, entitled `Biomedical relation extraction with knowledge base refined weak-supervision` is under the review process of DATABASE journal - BioCreative special issues. 
+
+Until our main paper is available as a journal article, please cite our short technical description, which is accepted and included in the BioCreative VII workshop proceedings.  
+
+```
+@inproceedings{yoon2021using,
+  title={Using knowledge base to refine data augmentation for biomedical relation extraction},
+  author={Yoon, Wonjin and Yi, Sean and Jackson, Richard and Kim, Hyunjae and Kim, Sunkyu and Kang, Jaewoo},
+  booktitle={Proceedings of the BioCreative VII challenge evaluation workshop},
+  pages={31--35},
+  year={2021}
+}
+```
+We will update citation info shortly.
+
+<hr>
+
 For inquiries, please contact `wjyoon (_at_) korea.ac.kr`.
