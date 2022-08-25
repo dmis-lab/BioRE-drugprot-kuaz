@@ -47,6 +47,7 @@ export LEARN_RATE=2e-5
 export EPOCHS=40
 export RE_DIR=<DATA PATH>/format_dt
 export OUTPUT_DIR=<OUTPUT PATH>/bs-${BATCH_SIZE}_seqLen-${SEQ_LEN}_lr-${LEARN_RATE}_${EPOCHS}epoch_iter-$CASE_NUM
+mkdir $OUTPUT_DIR
 echo $OUTPUT_DIR
 
 export TASK_NAME=bc7dp
